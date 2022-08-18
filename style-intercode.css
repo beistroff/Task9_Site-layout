@@ -811,24 +811,7 @@ element.style {
         line-height: 45px;
     }
 }
-@media (min-width: 1024px){
-    .container {
-        max-width: 1000px;
-    }
-    .neurons-image{
-        width: 590px;
-        height: 455px;
-    }
-    h1{
-        font-size: 43px;
-    }
-    .internship-info{
-        margin-top: -70px;
-        margin-bottom: 7px;
-        font-size: 50px;
-        line-height: 60px;
-    }
-}
+
 @media (min-width: 1200px){
     .container{
         max-width: 1140px;
@@ -839,24 +822,6 @@ element.style {
     }
     h1{
         font-size: 42px;
-    }
-    .internship-info{
-        margin-top: -70px;
-        margin-bottom: 7px;
-        font-size: 50px;
-        line-height: 60px;
-    }
-}
-@media (min-width: 1280px){
-    .container{
-        max-width: 1200px;
-    }
-    .neurons-image{
-        width: 630px;
-        height: 505px;
-    }
-    h1{
-        font-size: 50px;
     }
     .internship-info{
         margin-top: -70px;
