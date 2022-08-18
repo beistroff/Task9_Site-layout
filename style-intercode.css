@@ -830,24 +830,7 @@ element.style {
         line-height: 60px;
     }
 }
-@media (min-width: 1368px){
-    .container{
-        max-width: 1280px;
-    }
-    .neurons-image{
-        width: 630px;
-        height: 505px;
-    }
-    h1{
-        font-size: 50px;
-    }
-    .internship-info{
-        margin-top: -70px;
-        margin-bottom: 7px;
-        font-size: 50px;
-        line-height: 60px;
-    }
-}
+
 @media (min-width: 1440px){
     .container{
         max-width: 1400px;
